@@ -1,3 +1,0 @@
-Created test3.txt file
-created new file test3.txt
-also try to push the file to git hub
